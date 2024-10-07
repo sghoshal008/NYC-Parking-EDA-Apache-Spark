@@ -33,7 +33,7 @@ The purpose of this case study is to conduct an exploratory data analysis that w
 
  
 
-The dataset structure is available on this page along with the data.
+The dataset structure is available on this page along with the data - https://www.kaggle.com/datasets/new-york-city/nyc-parking-tickets/data
 
  
 
